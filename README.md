@@ -4,7 +4,7 @@
 This repository contains the coursework for CS-250: Software Development Lifecycle, through which I have gained the skills and understanding needed to effectively implement Agile methodologies in future software development projects. By prioritizing communication, embracing iterative development, and fostering strong team dynamics, I am confident in my ability to contribute to successful and efficient software development teams. Inside this repository, you will find:
   * Sprint Review and Retrospective: The complete version of the final Sprint Review and Retrospective, providing a comprehensive look at the outcomes and insights from the project.
   
-  * (Short Version) Sprint Review and Retrospective Overview: A concise summary of the final Sprint Review and Retrospective, offering a quick overview of the project's achievements and lessons learned.
+  * (Short Version) Sprint Review and Retrospective: A concise summary of the final Sprint Review and Retrospective, offering a quick overview of the project's achievements and lessons learned.
 
   * PowerPoint Presentation: A detailed comparison of the traditional waterfall project development model versus the Scrum-Agile methodology, highlighting the key differences and benefits of each approach.
 
