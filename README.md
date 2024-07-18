@@ -1,4 +1,4 @@
-# Agile Methodology and Software Development
+# Agile Methodology and Software Development Lifecycle (SDLC)
 
 ## Repository Overview
 This repository showcases the skills and knowledge I acquired through my coursework in CS-250: Software Development Lifecycle. Inside, you will find:
