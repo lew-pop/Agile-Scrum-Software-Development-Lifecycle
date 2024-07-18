@@ -1,7 +1,13 @@
 # Agile Methodology and Software Development
 
+## Repository Overview
+This repository showcases the skills and knowledge I acquired through my coursework in CS-250: Software Development Lifecycle. Inside, you will find:
+  * PowerPoint Presentation: A detailed comparison of the traditional waterfall project development model versus the Scrum-Agile methodology, highlighting the key differences and benefits of each approach.
+  * Final Sprint Review and Retrospective: The complete version of the final Sprint Review and Retrospective, providing a comprehensive look at the outcomes and insights from the project.
+  * (Short Version) Sprint Review and Retrospective Overview: A concise summary of the final Sprint Review and Retrospective, offering a quick overview of the project's achievements and lessons learned.
+
 ## Overview
-This course has equipped me with the necessary skills and understanding to implement Agile methodologies effectively in my future software development projects. By focusing on communication, embracing iterative development, and fostering strong team dynamics, I am confident in my ability to contribute to successful and efficient software development teams.
+This repository contains the coursework course has equipped me with the necessary skills and understanding to implement Agile methodologies effectively in my future software development projects. By focusing on communication, embracing iterative development, and fostering strong team dynamics, I am confident in my ability to contribute to successful and efficient software development teams.
 
 ## Understanding User Needs through User Stories
 
