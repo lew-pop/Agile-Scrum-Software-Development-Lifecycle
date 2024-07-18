@@ -6,7 +6,7 @@ This repository contains the coursework for CS-250: Software Development Lifecyc
   
   * (Short Version) Sprint Review and Retrospective: A concise summary of the final Sprint Review and Retrospective, offering a quick overview of the project's achievements and lessons learned.
 
-  * PowerPoint Presentation: A detailed comparison of the traditional waterfall project development model versus the Scrum-Agile methodology, highlighting the key differences and benefits of each approach.
+  * PowerPoint Presentation: A comparison of the traditional waterfall project development model versus the Scrum-Agile methodology, highlighting the key differences and benefits of each approach.
 
 ## Understanding User Needs through User Stories
 
