@@ -1,12 +1,8 @@
 # SNHU Travel: Sprint Review and Retrospective
 Lewis Quick
-
 Department of Computer Science, Southern New Hampshire University
-
 CS 250: Software Development Lifecycle
-
 Professor Terry
-
 October 17, 2021
 
 ## Transitioning to Agile Methodology at Chada Tech
