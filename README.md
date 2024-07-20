@@ -1,4 +1,4 @@
-# Software Development Lifecycle (SDLC)
+# Agile-Scrum Software Development Lifecycle (SDLC)
 
 ## Repository Overview
 This repository showcases my experience and skills in implementing Agile methodologies, demonstrating my readiness to contribute to successful development teams. Through this work, I have developed a strong understanding of Agile principles, focusing on communication, iterative development, and team dynamics. I am confident in my ability to support efficient and effective software development projects. Inside this repository, you will find:
