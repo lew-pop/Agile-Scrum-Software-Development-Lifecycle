@@ -1,7 +1,9 @@
 # Agile-Scrum Software Development Lifecycle (SDLC)
 
 ## Repository Overview
-This repository showcases my experience and skills in implementing Agile methodologies, demonstrating my readiness to contribute to successful development teams. Through this work, I have developed a strong understanding of Agile principles, focusing on communication, iterative development, and team dynamics. I am confident in my ability to support efficient and effective software development projects. Inside this repository, you will find:
+This repository showcases my experience and skills in implementing Agile methodologies, demonstrating my readiness to contribute to successful development teams. Through this work, I have developed a strong understanding of Agile principles, focusing on communication, iterative development, and team dynamics. I am confident in my ability to support efficient and effective software development projects. 
+
+Inside this repository, you will find:
   * Sprint Review and Retrospective: The complete version of the final Sprint Review and Retrospective, providing a comprehensive look at the outcomes and insights from the project.
   
   * (Short Version) Sprint Review and Retrospective: A concise summary of the final Sprint Review and Retrospective, offering a quick overview of the project's achievements and lessons learned.
